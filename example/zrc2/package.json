@@ -20,6 +20,6 @@
   "license": "GPL-3.0",
   "dependencies": {
     "@zilliqa-js/zilliqa": "^0.8.9",
-    "tslib": "^1.10.0"
+    "tslib": "^1.14.1"
   }
 }
