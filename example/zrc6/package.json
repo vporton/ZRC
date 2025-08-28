@@ -19,7 +19,7 @@
   "author": "vporton",
   "license": "GPL-3.0",
   "dependencies": {
-    "@zilliqa-js/zilliqa": "^0.8.9",
+    "@zilliqa-js/zilliqa": "^3.3.1",
     "tslib": "^1.10.0"
   }
 }
